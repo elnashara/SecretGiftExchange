@@ -20,8 +20,8 @@ The Secret Gift Exchange is a C# application designed to facilitate the organiza
    ```bash
    git clone [repository-url]
 ```
-2. Running the Application:
-	To run the application, execute the following command in the terminal or use the run feature in Visual Studio:
+
+2. Running the Application: (To run the application, execute the following command in the terminal or use the run feature in Visual Studio)
    ```bash
    dotnet run --project ./src/SecretGiftExchange/SecretGiftExchange.csproj
 ```
