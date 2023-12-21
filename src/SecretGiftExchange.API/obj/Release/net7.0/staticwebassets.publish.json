@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YV88LNwyOWMqqrwK7gW1FX60L61dft0o5rztDlagEyM=",
+  "Source": "SecretGiftExchange.API",
+  "BasePath": "_content/SecretGiftExchange.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
